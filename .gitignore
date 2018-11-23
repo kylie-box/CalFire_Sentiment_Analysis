@@ -1,0 +1,5 @@
+code/fire.csv
+code/fire_(tweet,time,geo,user_name,user_desc,user_loc,verified).csv
+code/fire_(tweet,verified,time).csv
+code/hurricane.csv
+code/data/data_raw
