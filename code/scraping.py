@@ -3,10 +3,10 @@ import pandas as pd
 import re
 
 
-consumer_key = "Y9AQfYvR6robkHSUWq7SNpg63"
-consumer_secret = "FVHydmvOQzl0MP9VHTwgdx6YoR1t4bYGE2JdX1pTM0IYfjVXHY"
-access_key = "3494260037-ySvUJ8e7A80CitH64Ec7V6xAzPidPS05e8YTh1n"
-access_secret = "AsoMr0k5KPWcyJpCjreZnxkYpmW3ORlhFHcJQFqIF0EF4"
+consumer_key = 
+consumer_secret = 
+access_key = 
+access_secret = 
 
 
 # Function to extract tweets
