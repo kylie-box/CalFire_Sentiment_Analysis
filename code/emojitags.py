@@ -1,15 +1,10 @@
 import pandas as pd
-
-# with open('emoji_dict.txt','r') as f:
-#     for line in f:
-#         print(line.split())
-
 import unicodedata
 from unidecode import unidecode
 import re
 
 INPUT_DATA_PATH = './data/data_preprocessed/fire-2018-11-{}_new.csv'
-OUTPUT_DATA_PATH = './data/data_preprocessed/automatic_sentiment_tag_by_emoji/fire-2018-11-{}_new.csv'
+OUTPUT_DATA_PATH = './data/data_preprocessed/automatic_sentiment_tag_by_emoji/fire-2018-11-{}_emoji_tagged.csv'
 
 
 def deEmojify(inputString):
